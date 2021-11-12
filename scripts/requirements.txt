@@ -1,0 +1,7 @@
+#aby zainstalować podane biblioteki:
+
+mysqlclient
+mysql-connector-python
+pandas
+sqlalchemy
+pymysql
